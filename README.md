@@ -1,4 +1,4 @@
-# Room-Booking-Calendar
+# Booking-Calendar
 
 A simple class that keeps track of bookings. Would work for something like keeping track of a single room in a hotel for a year.
 
